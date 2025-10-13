@@ -1,0 +1,9 @@
+[package]
+name = "interstellar-beginning"
+version = "0.1.0"
+edition = "2021"
+authors = ["tonyan8889 <jinbaoyin20@Gmail.com>"]
+description = "去中心化AI智能算力池底座，为Web3与AI推理小团体提供算力支持"
+
+[dependencies]
+// TODO: 添加各模块依赖
